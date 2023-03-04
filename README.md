@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmalisajjad&show_icons=true&locale=en" alt="hmalisajjad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmalisajjad&" alt="hmalisajjad" /></p>
-
+<a href="https://app.daily.dev/alisajjad"><img src="https://api.daily.dev/devcards/3c331fd9adc5478f9859a2526a516239.png?r=ylm" width="400" alt="Hafiz Muhammad Ali Sajjad's Dev Card"/></a>
