@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Ali Sajjad</h1>
-<h3 align="center">Experienced Full Stack software developer with expertise in web development. My skills include React, TypeScript, JavaScript for the frontend,Python(Django, Scrapy, BeautifulSoap, Flask) Node.js, and Express.js for the backend. Specializing in management systems and custom projects, I’m currently looking for a software developer position and am dedicated to contributing to cutting-edge application development as a collaborative team player.</h3>
+<h3 align="center">Experienced Full Stack software developer with expertise in web development. My skills include React, TypeScript, JavaScript for the frontend,Python(Django, Scrapy, BeautifulSoap, Flask), Node.js, and Express.js for the backend. Specializing in management systems and custom projects, I’m currently looking for a software developer position and am dedicated to contributing to cutting-edge application development as a collaborative team player.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmalisajjad&label=Profile%20views&color=0e75b6&style=flat" alt="hmalisajjad" /> </p>
 
